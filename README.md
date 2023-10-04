@@ -1,2 +1,2 @@
 # wf3-javascript
-Les exercices de la formation javascript (WebForce3)
+Les exercices de la formation javascript (WebForce3).
